@@ -6,5 +6,4 @@ class FileReader
   def read_file(file)
     file.read
   end
-
 end
