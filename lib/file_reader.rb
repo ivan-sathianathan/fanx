@@ -7,7 +7,4 @@ class FileReader
     file.read
   end
 
-  def string_to_array(string)
-    string.split
-  end
 end
