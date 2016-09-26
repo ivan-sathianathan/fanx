@@ -3,13 +3,11 @@ class FileParser
     File.open(file_path, "r")
   end
 
-  def read(file)
+  def read_file(file)
     file.read
   end
 
-  def parse(file)
-    string = read(file)
+  def string_to_array(string)
     string.split
   end
-
 end
