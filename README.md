@@ -3,7 +3,7 @@
 # Usage
 
 1. Clone this repo
-2. `cd fanxchange/lib` to move into correct directory
+2. `cd fanx/lib` to move into correct directory
 3. Run `ruby app.rb path/to/file`
 
 # Rspec
